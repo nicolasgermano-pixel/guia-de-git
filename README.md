@@ -4,9 +4,9 @@ Um glossário de Git escrito por quem está aprendendo a usá-lo.
 
 ## Dupla (ou trio)
 
-- nicolasgermano-pixel 
-- NatAInael
-- ryanestudante
+- Nicolas Germano (nicolasgermano-pixel) 
+- Natanael Augusto (NatAInael)
+- Ryan Pereira (ryanestudante) 
 
 
 ## Como contribuir
