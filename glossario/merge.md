@@ -1,3 +1,3 @@
 # merge
 
-(a definição entra aqui, na rodada 2)
+merge significa juntar mudanças feitas no repositorio.
