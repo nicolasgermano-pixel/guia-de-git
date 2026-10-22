@@ -4,8 +4,10 @@ Um glossário de Git escrito por quem está aprendendo a usá-lo.
 
 ## Dupla (ou trio)
 
-- Nome Sobrenome (usuario-do-github)
-- Nome Sobrenome (usuario-do-github)
+- nicolasgermano-pixel 
+- NatAInael
+- ryanestudante
+
 
 ## Como contribuir
 
